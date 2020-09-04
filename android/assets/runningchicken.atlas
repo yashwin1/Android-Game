@@ -1,0 +1,47 @@
+
+runningchicken.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+runningchicken4
+  rotate: false
+  xy: 1, 1
+  size: 119, 118
+  orig: 119, 118
+  offset: 0, 0
+  index: -1
+runningchicken1
+  rotate: false
+  xy: 122, 1
+  size: 118, 118
+  orig: 118, 118
+  offset: 0, 0
+  index: -1
+runningchicken5
+  rotate: false
+  xy: 242, 2
+  size: 118, 117
+  orig: 118, 117
+  offset: 0, 0
+  index: -1
+runningchicken2
+  rotate: false
+  xy: 362, 3
+  size: 118, 116
+  orig: 118, 116
+  offset: 0, 0
+  index: -1
+runningchicken6
+  rotate: false
+  xy: 482, 2
+  size: 117, 117
+  orig: 117, 117
+  offset: 0, 0
+  index: -1
+runningchicken3
+  rotate: false
+  xy: 601, 5
+  size: 118, 114
+  orig: 118, 114
+  offset: 0, 0
+  index: -1
